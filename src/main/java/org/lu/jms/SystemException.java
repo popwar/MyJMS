@@ -4,8 +4,6 @@ package org.lu.jms;
  * 
  * business exception
  * 
- * @author Lorry.guo
- * 
  */
 public class SystemException extends RuntimeException {
 
